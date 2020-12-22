@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.CSS_Task.01", "ITMO.Markup.CSS_Task.01", "{2EB67E3E-7CCB-4785-ABC2-D1C5C78B9AD5}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\button_1.jpg = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\button_1.jpg
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\button_3.png = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\button_3.png
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.1_index.html = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.1_index.html
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.1_style.css = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.1_style.css
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.3_classification.html = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.01\ITMO.Markup.CSS_01.3_classification.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.CSS_Task.02", "ITMO.Markup.CSS_Task.02", "{8AEC52EE-54AA-4FD4-AC9D-C467C72E3DE0}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.CSS\ITMO.Markup.CSS_Task.02\ITMO.Markup.CSS_02.1_about_buttons.html = ITMO.Markup.CSS\ITMO.Markup.CSS_Task.02\ITMO.Markup.CSS_02.1_about_buttons.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD29BD76-16E7-47FE-8533-1D5464C354EA}
+	EndGlobalSection
+EndGlobal
